@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ordenacao">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/computacao-algoritmo/ordenacao/ShellSort - Atividade.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/computacao-algoritmo/ordenacao/Selecao.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
